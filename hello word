@@ -1,0 +1,6 @@
+#include<iostream>
+  {
+  main();
+  cout <<"hello word";
+  
+}
